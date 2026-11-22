@@ -1,5 +1,9 @@
 # bring-the-humans-03 — make.fun TikTok ad entry
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Till3005/makefun-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-03/Till3005/makefun-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03)
+
 An original 24-second vertical ad for make.fun, made end-to-end by an AI agent in
 one working session (creative, assets, render, and checks) for make.fun's
 TikTok ad bounty bring-the-humans-03. `VIDEO.json` names the posted video; the
